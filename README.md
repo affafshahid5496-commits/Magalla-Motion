@@ -1,14 +1,14 @@
 # Margalla Motion
 
 **CS4032 Web Programming, Assignment 02 (Fall 2026)**
-Student: `<Your Name>` · Roll No: `<Roll No>` · Section: `<Section>`
+Student: Affaf Shahid · Roll No: 24i-2009 · Section: CY-5B
 
 A React website for **Margalla Motion**, a fictional group-fitness studio in F-7 Markaz, Islamabad. Students and young professionals browse classes, search and filter them, open a details page, build a plan of seats, fill in a booking form, review a calculated summary and reach a confirmation.
 
 > All bookings are **simulated**. No payment is taken, no data is sent anywhere, and the form details are never saved.
 
-- GitHub: `<paste public repository link>`
-- Deployment: `<paste deployed link>`
+- GitHub: https://github.com/affafshahid5496-commits/Magalla-Motion
+- Deployment: https://magalla-motion.vercel.app/
 - Final commit: `<paste hash>`
 
 ## Commands

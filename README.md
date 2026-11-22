@@ -9,7 +9,7 @@ A React website for **Margalla Motion**, a fictional group-fitness studio in F-7
 
 - GitHub: https://github.com/affafshahid5496-commits/Magalla-Motion
 - Deployment: https://magalla-motion.vercel.app/
-- Final commit: `<paste hash>`
+
 
 ## Commands
 
